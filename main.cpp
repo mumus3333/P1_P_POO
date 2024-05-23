@@ -98,7 +98,7 @@ void createPolygon() {
     cout << "1. Triángulo\n";
     cout << "2. Triángulo Isósceles\n";
     cout << "3. Triángulo Equilátero\n";
-    cout << "4. Cuadrilátero\n";
+    cout << "4. Cuadrilátero(Trapezoide)\n";
     cout << "5. Rectángulo\n";
     cout << "6. Cuadrado\n";
     cout << "7. Pentágono\n";
